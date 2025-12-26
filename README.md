@@ -1,9 +1,3 @@
-Below is the same content rewritten in **proper GitHub `README.md` Markdown format**, with **clear headings, bold emphasis, clean structure**, and a **professional engineering tone**.
-
-You can copy-paste this directly into `README.md`.
-
----
-
 # React and TypeScript Web Application
 
 ## Overview
