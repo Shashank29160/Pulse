@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Perfect for our subscription business",
+    "review": "Chargebee simplified our entire billing workflow. The recurring billing automation and customer portal are fantastic. Our finance team loves the reporting capabilities.",
+    "date": "2023-06-08",
+    "rating": 5,
+    "reviewer_name": "Amanda Foster",
+    "source": "capterra",
+    "company": "Chargebee",
+    "url": "https://www.capterra.com/p/152431/Chargebee/reviews/3456781"
+  },
+  {
+    "title": "Comprehensive billing solution",
+    "review": "We migrated from a homegrown solution to Chargebee. The migration tools and support made the transition smooth. Now we have proper revenue recognition and can handle complex pricing scenarios easily.",
+    "date": "2023-05-14",
+    "rating": 5,
+    "reviewer_name": "James Wilson",
+    "source": "capterra",
+    "company": "Chargebee",
+    "url": "https://www.capterra.com/p/152431/Chargebee/reviews/3456782"
+  },
+  {
+    "title": "Good but could be more intuitive",
+    "review": "Chargebee has all the features we need but the interface can be confusing at times. Once you learn where everything is, it's powerful. The API is well-documented which helped our developers.",
+    "date": "2023-04-25",
+    "rating": 4,
+    "reviewer_name": "Nicole Brown",
+    "source": "capterra",
+    "company": "Chargebee",
+    "url": "https://www.capterra.com/p/152431/Chargebee/reviews/3456783"
+  },
+  {
+    "title": "Handles enterprise complexity well",
+    "review": "Our multi-entity, multi-currency setup works flawlessly with Chargebee. The tax handling and compliance features are a huge time saver. Worth the investment for complex billing needs.",
+    "date": "2023-03-20",
+    "rating": 5,
+    "reviewer_name": "Christopher Lee",
+    "source": "capterra",
+    "company": "Chargebee",
+    "url": "https://www.capterra.com/p/152431/Chargebee/reviews/3456784"
+  },
+  {
+    "title": "Decent platform with some quirks",
+    "review": "Overall satisfied with Chargebee. The webhook system is reliable and integrations with our stack work well. Some features feel over-engineered for simpler use cases though.",
+    "date": "2023-02-12",
+    "rating": 4,
+    "reviewer_name": "Maria Garcia",
+    "source": "capterra",
+    "company": "Chargebee",
+    "url": "https://www.capterra.com/p/152431/Chargebee/reviews/3456785"
+  }
+]

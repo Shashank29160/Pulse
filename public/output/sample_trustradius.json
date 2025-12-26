@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Enterprise-ready subscription management",
+    "review": "Chargebee has been instrumental in scaling our subscription business. The flexibility in handling various billing scenarios, from simple monthly plans to complex usage-based pricing, is impressive. The analytics and reporting have given us insights we never had before.",
+    "date": "2023-06-20",
+    "rating": 5,
+    "reviewer_name": "Jennifer Martinez",
+    "source": "trustradius",
+    "company": "Chargebee",
+    "url": "https://www.trustradius.com/reviews/chargebee-2023-06-review-789012"
+  },
+  {
+    "title": "Streamlined our billing operations",
+    "review": "After years of manual invoicing, Chargebee automated everything. The dunning management alone has recovered significant revenue. Implementation took some effort but the long-term benefits are clear.",
+    "date": "2023-05-05",
+    "rating": 4,
+    "reviewer_name": "Thomas Anderson",
+    "source": "trustradius",
+    "company": "Chargebee",
+    "url": "https://www.trustradius.com/reviews/chargebee-2023-05-review-789013"
+  },
+  {
+    "title": "Robust platform for SaaS billing",
+    "review": "We evaluated Recurly, Zuora, and Chargebee. Chargebee offered the best balance of features and pricing for our mid-market SaaS. The customer portal and self-service options reduced our support load significantly.",
+    "date": "2023-04-12",
+    "rating": 5,
+    "reviewer_name": "Rachel Green",
+    "source": "trustradius",
+    "company": "Chargebee",
+    "url": "https://www.trustradius.com/reviews/chargebee-2023-04-review-789014"
+  },
+  {
+    "title": "Solid but requires investment in learning",
+    "review": "Chargebee is powerful but not immediately intuitive. We needed to invest time in understanding the data model and best practices. Once configured properly, it runs smoothly with minimal intervention.",
+    "date": "2023-03-08",
+    "rating": 4,
+    "reviewer_name": "Kevin Thompson",
+    "source": "trustradius",
+    "company": "Chargebee",
+    "url": "https://www.trustradius.com/reviews/chargebee-2023-03-review-789015"
+  },
+  {
+    "title": null,
+    "review": "Good subscription billing tool. Works well for our needs though the pricing gets expensive as you scale. The Stripe integration is seamless and the revenue recognition features are helpful for accounting.",
+    "date": "2023-01-25",
+    "rating": 4,
+    "reviewer_name": "Sandra White",
+    "source": "trustradius",
+    "company": "Chargebee",
+    "url": "https://www.trustradius.com/reviews/chargebee-2023-01-review-789016"
+  }
+]

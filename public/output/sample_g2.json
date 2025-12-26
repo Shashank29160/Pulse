@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Excellent billing automation platform",
+    "review": "Chargebee has transformed how we handle subscriptions. The automation features save us countless hours each month. Integration was smooth and support team was responsive throughout the process.",
+    "date": "2023-06-15",
+    "rating": 5,
+    "reviewer_name": "Sarah Chen",
+    "source": "g2",
+    "company": "Chargebee",
+    "url": "https://www.g2.com/products/chargebee/reviews/chargebee-review-8234561"
+  },
+  {
+    "title": "Great for scaling SaaS businesses",
+    "review": "We switched from Stripe Billing to Chargebee and haven't looked back. The flexibility in pricing models and the revenue recognition features are exactly what we needed for our growth phase.",
+    "date": "2023-05-22",
+    "rating": 5,
+    "reviewer_name": "Michael Torres",
+    "source": "g2",
+    "company": "Chargebee",
+    "url": "https://www.g2.com/products/chargebee/reviews/chargebee-review-8234562"
+  },
+  {
+    "title": "Good product with room for improvement",
+    "review": "Chargebee handles our subscription management well. The learning curve was steeper than expected, and some advanced features require workarounds. Customer support is helpful but response times could be faster.",
+    "date": "2023-04-18",
+    "rating": 4,
+    "reviewer_name": "Emily Watson",
+    "source": "g2",
+    "company": "Chargebee",
+    "url": "https://www.g2.com/products/chargebee/reviews/chargebee-review-8234563"
+  },
+  {
+    "title": "Solid choice for mid-market companies",
+    "review": "After evaluating multiple billing platforms, we chose Chargebee for its balance of features and pricing. The dunning management and analytics dashboards have been particularly valuable for reducing churn.",
+    "date": "2023-03-10",
+    "rating": 4,
+    "reviewer_name": "David Park",
+    "source": "g2",
+    "company": "Chargebee",
+    "url": "https://www.g2.com/products/chargebee/reviews/chargebee-review-8234564"
+  },
+  {
+    "title": "Reliable subscription management",
+    "review": "We've been using Chargebee for over a year now. It handles our complex pricing tiers well and the API documentation is comprehensive. Occasional UI slowness but nothing critical.",
+    "date": "2023-02-28",
+    "rating": 4,
+    "reviewer_name": "Lisa Johnson",
+    "source": "g2",
+    "company": "Chargebee",
+    "url": "https://www.g2.com/products/chargebee/reviews/chargebee-review-8234565"
+  },
+  {
+    "title": "Mixed experience overall",
+    "review": "The core billing features work well but we've encountered issues with some integrations. Support eventually resolved our problems but it took longer than expected. Pricing is reasonable for what you get.",
+    "date": "2023-01-15",
+    "rating": 3,
+    "reviewer_name": "Robert Kim",
+    "source": "g2",
+    "company": "Chargebee",
+    "url": "https://www.g2.com/products/chargebee/reviews/chargebee-review-8234566"
+  }
+]
